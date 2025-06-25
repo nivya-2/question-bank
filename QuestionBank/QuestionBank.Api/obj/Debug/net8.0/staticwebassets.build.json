@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fkdie3Ky24Y8YHtVbkXoA4WfQELp1YMJbephNscgHcg=",
+  "Source": "QuestionBank.Api",
+  "BasePath": "_content/QuestionBank.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
