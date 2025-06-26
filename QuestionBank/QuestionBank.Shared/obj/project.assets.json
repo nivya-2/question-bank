@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nivya.vineeth\\.nuget\\packages\\": {},
+    "C:\\Users\\midhun.krishnan\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Shared\\QuestionBank.Shared.csproj",
+      "projectUniqueName": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Shared\\QuestionBank.Shared.csproj",
       "projectName": "QuestionBank.Shared",
-      "projectPath": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Shared\\QuestionBank.Shared.csproj",
-      "packagesPath": "C:\\Users\\nivya.vineeth\\.nuget\\packages\\",
-      "outputPath": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Shared\\obj\\",
+      "projectPath": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Shared\\QuestionBank.Shared.csproj",
+      "packagesPath": "C:\\Users\\midhun.krishnan\\.nuget\\packages\\",
+      "outputPath": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nivya.vineeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\midhun.krishnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

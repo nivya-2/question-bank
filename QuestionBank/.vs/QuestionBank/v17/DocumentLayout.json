@@ -1,78 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\",
+  "WorkspaceRootPath": "D:\\OJT\\question-bank\\QuestionBank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.application\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|solutionrelative:questionbank.application\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.application\\questionbank.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|solutionrelative:questionbank.application\\questionbank.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EA1B2B2-6E5C-4B57-B258-B96962619B5B}|ClassLibrary1\\ClassLibrary1.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EA1B2B2-6E5C-4B57-B258-B96962619B5B}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830CC276-C0B0-4549-89E2-ACA95C44768A}|QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.infrastructure\\persistence\\migrations\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830CC276-C0B0-4549-89E2-ACA95C44768A}|QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj|solutionrelative:questionbank.infrastructure\\persistence\\migrations\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.application\\features\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|solutionrelative:questionbank.application\\features\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.domain\\entities\\common\\basedomainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|solutionrelative:questionbank.domain\\entities\\common\\basedomainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.domain\\questionbank.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|solutionrelative:questionbank.domain\\questionbank.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.application\\applicationserviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|solutionrelative:questionbank.application\\applicationserviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.application\\contracts\\persistence\\\u200Eiquestionbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|solutionrelative:questionbank.application\\contracts\\persistence\\\u200Eiquestionbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA32E0CB-16E6-4399-8817-F301C6BA78A2}|QuestionBank.Api\\QuestionBank.Api.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA32E0CB-16E6-4399-8817-F301C6BA78A2}|QuestionBank.Api\\QuestionBank.Api.csproj|solutionrelative:questionbank.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA32E0CB-16E6-4399-8817-F301C6BA78A2}|QuestionBank.Api\\QuestionBank.Api.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.api\\controllers\\questionbankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA32E0CB-16E6-4399-8817-F301C6BA78A2}|QuestionBank.Api\\QuestionBank.Api.csproj|solutionrelative:questionbank.api\\controllers\\questionbankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA32E0CB-16E6-4399-8817-F301C6BA78A2}|QuestionBank.Api\\QuestionBank.Api.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.api\\controllers\\common\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA32E0CB-16E6-4399-8817-F301C6BA78A2}|QuestionBank.Api\\QuestionBank.Api.csproj|solutionrelative:questionbank.api\\controllers\\common\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830CC276-C0B0-4549-89E2-ACA95C44768A}|QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.infrastructure\\questionbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830CC276-C0B0-4549-89E2-ACA95C44768A}|QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj|solutionrelative:questionbank.infrastructure\\questionbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2BF1856-41BB-4356-B0F0-6C8119F762AB}|QuestionBank.Shared\\QuestionBank.Shared.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2BF1856-41BB-4356-B0F0-6C8119F762AB}|QuestionBank.Shared\\QuestionBank.Shared.csproj|solutionrelative:questionbank.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830CC276-C0B0-4549-89E2-ACA95C44768A}|QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.infrastructure\\infrastructureserviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830CC276-C0B0-4549-89E2-ACA95C44768A}|QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj|solutionrelative:questionbank.infrastructure\\infrastructureserviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|solutionrelative:questionbank.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA32E0CB-16E6-4399-8817-F301C6BA78A2}|QuestionBank.Api\\QuestionBank.Api.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.api\\questionbank.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{BA32E0CB-16E6-4399-8817-F301C6BA78A2}|QuestionBank.Api\\QuestionBank.Api.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.api\\questionbank.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BA32E0CB-16E6-4399-8817-F301C6BA78A2}|QuestionBank.Api\\QuestionBank.Api.csproj|solutionrelative:questionbank.api\\questionbank.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{830CC276-C0B0-4549-89E2-ACA95C44768A}|QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj|d:\\ilp_01_2024_25\\ojt\\.net_core_ws_training\\questionbank\\questionbank.infrastructure\\questionbank.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.domain\\entities\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|solutionrelative:questionbank.domain\\entities\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BF1856-41BB-4356-B0F0-6C8119F762AB}|QuestionBank.Shared\\QuestionBank.Shared.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.shared\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BF1856-41BB-4356-B0F0-6C8119F762AB}|QuestionBank.Shared\\QuestionBank.Shared.csproj|solutionrelative:questionbank.shared\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA1B2B2-6E5C-4B57-B258-B96962619B5B}|ClassLibrary1\\ClassLibrary1.csproj|d:\\ojt\\question-bank\\questionbank\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA1B2B2-6E5C-4B57-B258-B96962619B5B}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.domain\\entities\\interviewskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|solutionrelative:questionbank.domain\\entities\\interviewskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BF1856-41BB-4356-B0F0-6C8119F762AB}|QuestionBank.Shared\\QuestionBank.Shared.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.shared\\questionbank.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2BF1856-41BB-4356-B0F0-6C8119F762AB}|QuestionBank.Shared\\QuestionBank.Shared.csproj|solutionrelative:questionbank.shared\\questionbank.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.domain\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|solutionrelative:questionbank.domain\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.domain\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|solutionrelative:questionbank.domain\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.domain\\entities\\common\\basedomainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|solutionrelative:questionbank.domain\\entities\\common\\basedomainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.domain\\questionbank.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D45B68E-A92D-4040-8E42-937C7E716BF5}|QuestionBank.Domain\\QuestionBank.Domain.csproj|solutionrelative:questionbank.domain\\questionbank.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830CC276-C0B0-4549-89E2-ACA95C44768A}|QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.infrastructure\\questionbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830CC276-C0B0-4549-89E2-ACA95C44768A}|QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj|solutionrelative:questionbank.infrastructure\\questionbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830CC276-C0B0-4549-89E2-ACA95C44768A}|QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.infrastructure\\infrastructureserviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830CC276-C0B0-4549-89E2-ACA95C44768A}|QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj|solutionrelative:questionbank.infrastructure\\infrastructureserviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830CC276-C0B0-4549-89E2-ACA95C44768A}|QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.infrastructure\\questionbank.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{830CC276-C0B0-4549-89E2-ACA95C44768A}|QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj|solutionrelative:questionbank.infrastructure\\questionbank.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.application\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|solutionrelative:questionbank.application\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.application\\questionbank.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|solutionrelative:questionbank.application\\questionbank.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830CC276-C0B0-4549-89E2-ACA95C44768A}|QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.infrastructure\\persistence\\migrations\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830CC276-C0B0-4549-89E2-ACA95C44768A}|QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj|solutionrelative:questionbank.infrastructure\\persistence\\migrations\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.application\\features\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|solutionrelative:questionbank.application\\features\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.application\\applicationserviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|solutionrelative:questionbank.application\\applicationserviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.application\\contracts\\persistence\\\u200Eiquestionbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74744BB-CD89-434F-98C2-6A92C1B7E0D4}|QuestionBank.Application\\QuestionBank.Application.csproj|solutionrelative:questionbank.application\\contracts\\persistence\\\u200Eiquestionbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA32E0CB-16E6-4399-8817-F301C6BA78A2}|QuestionBank.Api\\QuestionBank.Api.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA32E0CB-16E6-4399-8817-F301C6BA78A2}|QuestionBank.Api\\QuestionBank.Api.csproj|solutionrelative:questionbank.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA32E0CB-16E6-4399-8817-F301C6BA78A2}|QuestionBank.Api\\QuestionBank.Api.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.api\\controllers\\questionbankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA32E0CB-16E6-4399-8817-F301C6BA78A2}|QuestionBank.Api\\QuestionBank.Api.csproj|solutionrelative:questionbank.api\\controllers\\questionbankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA32E0CB-16E6-4399-8817-F301C6BA78A2}|QuestionBank.Api\\QuestionBank.Api.csproj|d:\\ojt\\question-bank\\questionbank\\questionbank.api\\controllers\\common\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA32E0CB-16E6-4399-8817-F301C6BA78A2}|QuestionBank.Api\\QuestionBank.Api.csproj|solutionrelative:questionbank.api\\controllers\\common\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,71 +98,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\ClassLibrary1\\Class1.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\ClassLibrary1\\Class1.cs",
-              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "QuestionBank.Shared",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Shared\\QuestionBank.Shared.csproj",
+              "RelativeDocumentMoniker": "QuestionBank.Shared\\QuestionBank.Shared.csproj",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Shared\\QuestionBank.Shared.csproj",
+              "RelativeToolTip": "QuestionBank.Shared\\QuestionBank.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T12:07:56.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Domain\\Entities\\Question.cs",
+              "RelativeDocumentMoniker": "QuestionBank.Domain\\Entities\\Question.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Domain\\Entities\\Question.cs",
+              "RelativeToolTip": "QuestionBank.Domain\\Entities\\Question.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T07:20:01.5Z"
+              "WhenOpened": "2025-06-25T12:05:28.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "InterviewSkill.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Domain\\Entities\\InterviewSkill.cs",
+              "RelativeDocumentMoniker": "QuestionBank.Domain\\Entities\\InterviewSkill.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Domain\\Entities\\InterviewSkill.cs",
+              "RelativeToolTip": "QuestionBank.Domain\\Entities\\InterviewSkill.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:05:02.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Domain\\Entities\\Skill.cs",
+              "RelativeDocumentMoniker": "QuestionBank.Domain\\Entities\\Skill.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Domain\\Entities\\Skill.cs",
+              "RelativeToolTip": "QuestionBank.Domain\\Entities\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:52:59.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Application\\Features\\Class1.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:20:01.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Application\\Features\\Class1.cs",
               "RelativeDocumentMoniker": "QuestionBank.Application\\Features\\Class1.cs",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Application\\Features\\Class1.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Application\\Features\\Class1.cs",
               "RelativeToolTip": "QuestionBank.Application\\Features\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,11 +187,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Application\\Dto\\Class1.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Application\\Dto\\Class1.cs",
               "RelativeDocumentMoniker": "QuestionBank.Application\\Dto\\Class1.cs",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Application\\Dto\\Class1.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Application\\Dto\\Class1.cs",
               "RelativeToolTip": "QuestionBank.Application\\Dto\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -167,11 +200,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "ApplicationServiceRegistry.cs",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Application\\ApplicationServiceRegistry.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Application\\ApplicationServiceRegistry.cs",
               "RelativeDocumentMoniker": "QuestionBank.Application\\ApplicationServiceRegistry.cs",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Application\\ApplicationServiceRegistry.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Application\\ApplicationServiceRegistry.cs",
               "RelativeToolTip": "QuestionBank.Application\\ApplicationServiceRegistry.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,11 +212,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "QuestionBankController.cs",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Api\\Controllers\\QuestionBankController.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Api\\Controllers\\QuestionBankController.cs",
               "RelativeDocumentMoniker": "QuestionBank.Api\\Controllers\\QuestionBankController.cs",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Api\\Controllers\\QuestionBankController.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Api\\Controllers\\QuestionBankController.cs",
               "RelativeToolTip": "QuestionBank.Api\\Controllers\\QuestionBankController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,11 +224,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Api\\Program.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Api\\Program.cs",
               "RelativeDocumentMoniker": "QuestionBank.Api\\Program.cs",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Api\\Program.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Api\\Program.cs",
               "RelativeToolTip": "QuestionBank.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,11 +236,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "BaseController.cs",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Api\\Controllers\\Common\\BaseController.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Api\\Controllers\\Common\\BaseController.cs",
               "RelativeDocumentMoniker": "QuestionBank.Api\\Controllers\\Common\\BaseController.cs",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Api\\Controllers\\Common\\BaseController.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Api\\Controllers\\Common\\BaseController.cs",
               "RelativeToolTip": "QuestionBank.Api\\Controllers\\Common\\BaseController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,23 +248,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "QuestionBank.Application.csproj",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Application\\QuestionBank.Application.csproj",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Application\\QuestionBank.Application.csproj",
               "RelativeDocumentMoniker": "QuestionBank.Application\\QuestionBank.Application.csproj",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Application\\QuestionBank.Application.csproj",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Application\\QuestionBank.Application.csproj",
               "RelativeToolTip": "QuestionBank.Application\\QuestionBank.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-25T06:25:07.373Z"
+              "WhenOpened": "2025-06-25T06:25:07.373Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Infrastructure\\Persistence\\Migrations\\Class1.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Infrastructure\\Persistence\\Migrations\\Class1.cs",
               "RelativeDocumentMoniker": "QuestionBank.Infrastructure\\Persistence\\Migrations\\Class1.cs",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Infrastructure\\Persistence\\Migrations\\Class1.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Infrastructure\\Persistence\\Migrations\\Class1.cs",
               "RelativeToolTip": "QuestionBank.Infrastructure\\Persistence\\Migrations\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -239,11 +273,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "\u200EIQuestionBankDbContext.cs",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Application\\Contracts\\Persistence\\\u200EIQuestionBankDbContext.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Application\\Contracts\\Persistence\\\u200EIQuestionBankDbContext.cs",
               "RelativeDocumentMoniker": "QuestionBank.Application\\Contracts\\Persistence\\\u200EIQuestionBankDbContext.cs",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Application\\Contracts\\Persistence\\\u200EIQuestionBankDbContext.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Application\\Contracts\\Persistence\\\u200EIQuestionBankDbContext.cs",
               "RelativeToolTip": "QuestionBank.Application\\Contracts\\Persistence\\\u200EIQuestionBankDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -251,125 +285,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "QuestionBank.Domain.csproj",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Domain\\QuestionBank.Domain.csproj",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Domain\\QuestionBank.Domain.csproj",
               "RelativeDocumentMoniker": "QuestionBank.Domain\\QuestionBank.Domain.csproj",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Domain\\QuestionBank.Domain.csproj",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Domain\\QuestionBank.Domain.csproj",
               "RelativeToolTip": "QuestionBank.Domain\\QuestionBank.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-25T06:28:08.455Z"
+              "WhenOpened": "2025-06-25T06:28:08.455Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "BaseDomainEntity.cs",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Domain\\Entities\\Common\\BaseDomainEntity.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Domain\\Entities\\Common\\BaseDomainEntity.cs",
               "RelativeDocumentMoniker": "QuestionBank.Domain\\Entities\\Common\\BaseDomainEntity.cs",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Domain\\Entities\\Common\\BaseDomainEntity.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Domain\\Entities\\Common\\BaseDomainEntity.cs",
               "RelativeToolTip": "QuestionBank.Domain\\Entities\\Common\\BaseDomainEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T06:34:04.471Z"
+              "WhenOpened": "2025-06-25T06:34:04.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuestionBankDbContext.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Infrastructure\\QuestionBankDbContext.cs",
+              "RelativeDocumentMoniker": "QuestionBank.Infrastructure\\QuestionBankDbContext.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Infrastructure\\QuestionBankDbContext.cs",
+              "RelativeToolTip": "QuestionBank.Infrastructure\\QuestionBankDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:26:03.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "enums.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Shared\\enums.cs",
+              "RelativeDocumentMoniker": "QuestionBank.Shared\\enums.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Shared\\enums.cs",
+              "RelativeToolTip": "QuestionBank.Shared\\enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:26:26.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InfrastructureServiceRegistry.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Infrastructure\\InfrastructureServiceRegistry.cs",
+              "RelativeDocumentMoniker": "QuestionBank.Infrastructure\\InfrastructureServiceRegistry.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Infrastructure\\InfrastructureServiceRegistry.cs",
+              "RelativeToolTip": "QuestionBank.Infrastructure\\InfrastructureServiceRegistry.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:41:07.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestionBank.Api.csproj",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Api\\QuestionBank.Api.csproj",
+              "RelativeDocumentMoniker": "QuestionBank.Api\\QuestionBank.Api.csproj",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Api\\QuestionBank.Api.csproj",
+              "RelativeToolTip": "QuestionBank.Api\\QuestionBank.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T06:32:06.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Domain\\Entities\\Interview.cs",
+              "RelativeDocumentMoniker": "QuestionBank.Domain\\Entities\\Interview.cs",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Domain\\Entities\\Interview.cs",
+              "RelativeToolTip": "QuestionBank.Domain\\Entities\\Interview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:25:36.34Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "QuestionBankDbContext.cs",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Infrastructure\\QuestionBankDbContext.cs",
-              "RelativeDocumentMoniker": "QuestionBank.Infrastructure\\QuestionBankDbContext.cs",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Infrastructure\\QuestionBankDbContext.cs",
-              "RelativeToolTip": "QuestionBank.Infrastructure\\QuestionBankDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T06:26:03.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Shared\\Class1.cs",
-              "RelativeDocumentMoniker": "QuestionBank.Shared\\Class1.cs",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Shared\\Class1.cs",
-              "RelativeToolTip": "QuestionBank.Shared\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T06:26:26.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "InfrastructureServiceRegistry.cs",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Infrastructure\\InfrastructureServiceRegistry.cs",
-              "RelativeDocumentMoniker": "QuestionBank.Infrastructure\\InfrastructureServiceRegistry.cs",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Infrastructure\\InfrastructureServiceRegistry.cs",
-              "RelativeToolTip": "QuestionBank.Infrastructure\\InfrastructureServiceRegistry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T06:41:07.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "QuestionBank.Api.csproj",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Api\\QuestionBank.Api.csproj",
-              "RelativeDocumentMoniker": "QuestionBank.Api\\QuestionBank.Api.csproj",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Api\\QuestionBank.Api.csproj",
-              "RelativeToolTip": "QuestionBank.Api\\QuestionBank.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-25T06:32:06.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "QuestionBank.Domain\\Class1.cs",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Domain\\Class1.cs",
-              "RelativeToolTip": "QuestionBank.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T06:25:36.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "QuestionBank.Infrastructure.csproj",
-              "DocumentMoniker": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj",
               "RelativeDocumentMoniker": "QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj",
-              "ToolTip": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj",
+              "ToolTip": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj",
               "RelativeToolTip": "QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-25T06:28:50.71Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 280,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-06-25T06:28:50.71Z",
+              "EditorCaption": ""
             }
           ]
         }

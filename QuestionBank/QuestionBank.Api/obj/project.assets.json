@@ -1302,23 +1302,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nivya.vineeth\\.nuget\\packages\\": {},
+    "C:\\Users\\midhun.krishnan\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Api\\QuestionBank.Api.csproj",
+      "projectUniqueName": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Api\\QuestionBank.Api.csproj",
       "projectName": "QuestionBank.Api",
-      "projectPath": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Api\\QuestionBank.Api.csproj",
-      "packagesPath": "C:\\Users\\nivya.vineeth\\.nuget\\packages\\",
-      "outputPath": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Api\\obj\\",
+      "projectPath": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Api\\QuestionBank.Api.csproj",
+      "packagesPath": "C:\\Users\\midhun.krishnan\\.nuget\\packages\\",
+      "outputPath": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nivya.vineeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\midhun.krishnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1333,11 +1333,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Application\\QuestionBank.Application.csproj": {
-              "projectPath": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Application\\QuestionBank.Application.csproj"
+            "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Application\\QuestionBank.Application.csproj": {
+              "projectPath": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Application\\QuestionBank.Application.csproj"
             },
-            "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj": {
-              "projectPath": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj"
+            "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj": {
+              "projectPath": "D:\\OJT\\question-bank\\QuestionBank\\QuestionBank.Infrastructure\\QuestionBank.Infrastructure.csproj"
             }
           }
         }

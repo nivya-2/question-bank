@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\ClassLibrary1\\ClassLibrary1.csproj": {}
+    "D:\\OJT\\question-bank\\QuestionBank\\ClassLibrary1\\ClassLibrary1.csproj": {}
   },
   "projects": {
-    "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\ClassLibrary1\\ClassLibrary1.csproj": {
+    "D:\\OJT\\question-bank\\QuestionBank\\ClassLibrary1\\ClassLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectUniqueName": "D:\\OJT\\question-bank\\QuestionBank\\ClassLibrary1\\ClassLibrary1.csproj",
         "projectName": "ClassLibrary1",
-        "projectPath": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\ClassLibrary1\\ClassLibrary1.csproj",
-        "packagesPath": "C:\\Users\\nivya.vineeth\\.nuget\\packages\\",
-        "outputPath": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\ClassLibrary1\\obj\\",
+        "projectPath": "D:\\OJT\\question-bank\\QuestionBank\\ClassLibrary1\\ClassLibrary1.csproj",
+        "packagesPath": "C:\\Users\\midhun.krishnan\\.nuget\\packages\\",
+        "outputPath": "D:\\OJT\\question-bank\\QuestionBank\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nivya.vineeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\midhun.krishnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
