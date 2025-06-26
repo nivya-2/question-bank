@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectUniqueName": "D:\\ILP_01_2024_25\\OJT\\Usecase Project\\question-bank\\QuestionBank\\ClassLibrary1\\ClassLibrary1.csproj",
       "projectName": "ClassLibrary1",
-      "projectPath": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectPath": "D:\\ILP_01_2024_25\\OJT\\Usecase Project\\question-bank\\QuestionBank\\ClassLibrary1\\ClassLibrary1.csproj",
       "packagesPath": "C:\\Users\\nivya.vineeth\\.nuget\\packages\\",
-      "outputPath": "D:\\ILP_01_2024_25\\OJT\\.NET_Core_WS_Training\\QuestionBank\\ClassLibrary1\\obj\\",
+      "outputPath": "D:\\ILP_01_2024_25\\OJT\\Usecase Project\\question-bank\\QuestionBank\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

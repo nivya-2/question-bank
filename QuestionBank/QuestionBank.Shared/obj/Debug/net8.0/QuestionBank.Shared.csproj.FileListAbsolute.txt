@@ -20,3 +20,15 @@ D:\ILP_01_2024_25\OJT\.NET_Core_WS_Training\QuestionBank\QuestionBank.Shared\obj
 D:\ILP_01_2024_25\OJT\.NET_Core_WS_Training\QuestionBank\QuestionBank.Shared\obj\Debug\net8.0\refint\QuestionBank.Shared.dll
 D:\ILP_01_2024_25\OJT\.NET_Core_WS_Training\QuestionBank\QuestionBank.Shared\obj\Debug\net8.0\QuestionBank.Shared.pdb
 D:\ILP_01_2024_25\OJT\.NET_Core_WS_Training\QuestionBank\QuestionBank.Shared\obj\Debug\net8.0\ref\QuestionBank.Shared.dll
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Shared\bin\Debug\net8.0\QuestionBank.Shared.deps.json
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Shared\bin\Debug\net8.0\QuestionBank.Shared.dll
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Shared\bin\Debug\net8.0\QuestionBank.Shared.pdb
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Shared\obj\Debug\net8.0\QuestionBank.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Shared\obj\Debug\net8.0\QuestionBank.Shared.AssemblyInfoInputs.cache
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Shared\obj\Debug\net8.0\QuestionBank.Shared.AssemblyInfo.cs
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Shared\obj\Debug\net8.0\QuestionBank.Shared.csproj.CoreCompileInputs.cache
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Shared\obj\Debug\net8.0\QuestionBank.Shared.sourcelink.json
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Shared\obj\Debug\net8.0\QuestionBank.Shared.dll
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Shared\obj\Debug\net8.0\refint\QuestionBank.Shared.dll
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Shared\obj\Debug\net8.0\QuestionBank.Shared.pdb
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Shared\obj\Debug\net8.0\ref\QuestionBank.Shared.dll

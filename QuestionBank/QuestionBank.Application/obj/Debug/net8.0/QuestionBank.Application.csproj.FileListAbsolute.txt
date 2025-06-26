@@ -32,3 +32,21 @@ D:\ILP_01_2024_25\OJT\.NET_Core_WS_Training\QuestionBank\QuestionBank.Applicatio
 D:\ILP_01_2024_25\OJT\.NET_Core_WS_Training\QuestionBank\QuestionBank.Application\obj\Debug\net8.0\refint\QuestionBank.Application.dll
 D:\ILP_01_2024_25\OJT\.NET_Core_WS_Training\QuestionBank\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.pdb
 D:\ILP_01_2024_25\OJT\.NET_Core_WS_Training\QuestionBank\QuestionBank.Application\obj\Debug\net8.0\ref\QuestionBank.Application.dll
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\bin\Debug\net8.0\QuestionBank.Application.deps.json
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\bin\Debug\net8.0\QuestionBank.Application.dll
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\bin\Debug\net8.0\QuestionBank.Application.pdb
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\bin\Debug\net8.0\QuestionBank.Domain.dll
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\bin\Debug\net8.0\QuestionBank.Shared.dll
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\bin\Debug\net8.0\QuestionBank.Domain.pdb
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\bin\Debug\net8.0\QuestionBank.Shared.pdb
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.csproj.AssemblyReference.cache
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.AssemblyInfoInputs.cache
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.AssemblyInfo.cs
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.csproj.CoreCompileInputs.cache
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.sourcelink.json
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\obj\Debug\net8.0\Question.2FAD2E4F.Up2Date
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.dll
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\obj\Debug\net8.0\refint\QuestionBank.Application.dll
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.pdb
+D:\ILP_01_2024_25\OJT\Usecase Project\question-bank\QuestionBank\QuestionBank.Application\obj\Debug\net8.0\ref\QuestionBank.Application.dll
