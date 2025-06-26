@@ -1,0 +1,16 @@
+**/.vs/
+**/bin/
+**/obj/
+# Set default behavior to normalize line endings to LF in repo
+* text=auto
+
+# Use LF for all source code files in repo
+*.cs text eol=lf
+*.json text eol=lf
+*.ts text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+
+# Keep CRLF for Windows-only files if needed
+*.bat text eol=crlf
