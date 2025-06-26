@@ -6,4 +6,5 @@ namespace QuestionBank.Api.Controllers;
 
 public class QuestionBankController : BaseController
 {
+    int IAd= 123;
 }
